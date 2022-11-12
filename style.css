@@ -1,0 +1,41 @@
+body
+{
+	text-align: center;
+	background-image: url("JHGD.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.header
+{
+    font-size: 43px;
+    /*width: 100%;*/
+    margin: 0px;
+
+}
+
+#status
+{
+    font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.link
+{
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+
+.link:hover
+{
+    font-size: large;
+}
